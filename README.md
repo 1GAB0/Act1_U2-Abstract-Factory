@@ -21,3 +21,9 @@ variantes de los productos sigan esas interfaces
 Palabra Clave: Familias
 
 ## [Codigo](Program.cs)
+
+## Conclusion
+
+El uso de Abstract Factory nos deja hacer modulos donde podemos encapsular la creacion de los objetos 
+y delegandolo a las fabricas para evitar varios new por todo el copdigo.
+Y tambien se pudo ver como podemos extender el codigo agregando nuevas modalidades(clases) sin alterar la que ya estaban.
