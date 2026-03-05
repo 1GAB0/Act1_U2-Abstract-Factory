@@ -3,7 +3,7 @@ Actividad de evidencia 1_U2 Abstract Factory
 
 Gabriel San Roman Castillo - 19211731
 
-## [Portada](./Portada-Abstract-Fact.pdf)
+## [Portada](./Portada%20Abstract%20Fact.pdf)
 
 ## Introducción 
 Patron creacional
