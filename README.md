@@ -3,7 +3,7 @@ Actividad de evidencia 1_U2 Abstract Factory
 
 Gabriel San Roman Castillo - 19211731
 
-## [Portada](/Portada Abstract Fact.pdf)
+## [Portada](Portada-Abstract-Fact)
 
 ## Introducción 
 Patron creacional
@@ -20,4 +20,4 @@ variantes de los productos sigan esas interfaces
 
 Palabra Clave: Familias
 
-## [Codigo](Program.cs) 
+## [Codigo](Program.cs)
